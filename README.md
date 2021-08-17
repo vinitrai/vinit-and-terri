@@ -1,1 +1,1 @@
-# vinit-and-terri
+# A project created by vinit and terri
